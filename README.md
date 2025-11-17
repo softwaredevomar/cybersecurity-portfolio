@@ -28,28 +28,28 @@ NCL CTF. In MetaCTF, I was still new to the format and solved a single challenge
 hidden file and displaying its contents to extract the flag. This helped developed some forensics skills.
 
 I then trained in Cyber Skyline's Gymansium, scoring:
-4025/5120
-83.9% completion
-86% accuracy
+4025/5120,
+83.9% completion,
+86% accuracy.
 
 In the Practice Game, I applied my notes and workflows to score:
-1240/2695
-60% completion
-75% accuracy
-Cryptography: 100% completion and accuracy
+1240/2695,
+60% completion,
+75% accuracy,
+Cryptography: 100% completion and accuracy.
 Rank: 40 out of 8518 for the Cryptography category.
 
 In the Individual Game, I scored:
-1470/3000
-66.7% completion
-70.0% accuracy
+1470/3000,
+66.7% completion,
+70.0% accuracy.
 
 The Team Game was collaborative, teammates would communicate by self reporting progress, and supporting each other
 accross categories. My assigned categories were forensics and cryptography, however I contributed by helping others
-in other cateogries too. this helped our team rank:
-213 out of 4214
-74.5% accuracy
-73.4% completion
+in other cateogries too.
+Rank: 213 out of 4214,
+74.5% accuracy,
+73.4% completion,
 Personal category ranks:
-Forensics: 239/4214
-Cryptography: 316/4214
+Forensics: 239/4214,
+Cryptography: 316/4214.
