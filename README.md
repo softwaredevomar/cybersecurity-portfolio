@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio - a collection of projects, tools, and workflows that reflect my journet into digital defense and forensic analsysis.
+Welcome to my cybersecurity portfolio - a look at my journey into cybersecurity.
 
 ## Why Cybersecurity?
 
