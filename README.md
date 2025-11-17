@@ -39,6 +39,10 @@ In the Practice Game, I applied my notes and workflows to score:
 Cryptography: 100% completion and accuracy.
 Rank: 40 out of 8518 for the Cryptography category.
 
+One highlight from the Practice Game was a collaborative discussion with other students about identifying LM:NT hash pairs
+and password cracking strategies. That exchange helped me refine a workflow for hash analysis and reinforce the value
+of communicating with peers when struggling with challenges.
+
 In the Individual Game, I scored:
 1470/3000,
 66.7% completion,
