@@ -17,7 +17,7 @@ Explore my work at https://softwaredevomar.github.io
 
 ## CTF Experience
 
-My Capture The Flag (CTF) journey began with an apprenticeship application challenge hosted by MaxxPotential,
+My Capture The Flag (CTF) journey began with an apprenticeship group application hosted by MaxxPotential,
 where I placed first. This indicated I had good problem solving abilities for cybersecurity challenges. That
 experience sparked an interest to learning more CTF formats and workflows.
 
